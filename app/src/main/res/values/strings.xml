@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Quick Bites</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">My Recipes</string>
+    <string name="title_notifications">Profile</string>
+    <string name="favorites">Favorites</string>
+    <string name="api_key">e31374215c8e40b483ff7bc9fa7ed14</string>
+    <string name="recipes_id_information">recipes/{id}/information</string>
+    <string name="id">id</string>
+    <string name="apikey">apikey</string>
+    <string name="recipes_id_similar">recipes/{id}/similar</string>
+    <string name="id1">id</string>
+    <string name="recipes_id1">recipes/{id}</string>
+    <string name="recipes_id2">recipes/{id}</string>
+    <string name="recipes_random3">recipes/random</string>
+    <string name="recipes_id_similar1">recipes/{id}/similar</string>
+    <string name="number1">number</string>
+    <string name="apikey1">apiKey</string>
+    <string name="apikey2">apiKey</string>
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>appetizer</item>
+        <item>salad</item>
+        <item>bread</item>
+        <item>breakfast</item>
+        <item>msoup</item>
+        <item>beverage</item>
+        <item>sauce</item>
+        <item>marinade</item>
+        <item>fingerfood</item>
+        <item>snack</item>
+        <item>drink</item>
+
+    </string-array>
+</resources>
